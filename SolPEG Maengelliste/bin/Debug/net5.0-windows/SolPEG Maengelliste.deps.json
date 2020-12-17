@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SolPEG Maengelliste/1.0.0": {
+        "runtime": {
+          "SolPEG Maengelliste.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolPEG Maengelliste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
